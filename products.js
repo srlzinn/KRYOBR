@@ -69,6 +69,29 @@
       affiliateLink: "https://www.mercadolivre.com.br/tomada-inteligente-wi-fi-16a-bivolt-qonex-automacao-smart-plug-interruptor-com-monitor-de-consumo-compativel-alexa-e-google-home/p/MLB76578448?matt_event_ts=1790262862360&matt_d2id=5c77c0bd-5529-4704-a435-e511d1bf64e0&matt_tracing_id=10253fd8-e079-4d63-a64b-10793dae0518#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=52780588&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=9d576c8e-efc4-41f5-a7a4-c0c72823232f&tracking_id=2c936b1f-9b62-48a1-9665-793592cdbf36&c_id=/home/card-featured/element&c_uid=1a8c6b8f-9111-4249-9691-163c2cc58ef6",
     
       featured: true
-    }
+    },
+    {
+      id: 2,
+      name: "Jogo Kit De Ferramentas 129 Peças Completo C/ Maleta E Nível",
+      category: "ferramentas",
+    
+      image: "https://http2.mlstatic.com/D_NQ_NP_2X_698352-MLB110042630818_042026-F-jogo-kit-de-ferramentas-129-pecas-completo-c-maleta-e-nivel.webp",
+    
+      oldPrice: 117.80,
+      price: 91.75,
+      discount: 22,
+    
+      rating: 4.8,
+      reviews: 48,
+    
+      sold: "+100 vendidos",
+    
+      description:
+        "Kit completo com 129 peças para uso doméstico e profissional. Inclui maleta organizadora, nível, martelo, alicates, chaves, bits, soquetes, fita métrica e diversas outras ferramentas.",
+    
+      affiliateLink: "https://www.mercadolivre.com.br/jogo-kit-de-ferramentas-129-pecas-completo-c-maleta-e-nivel/up/MLBU3885669162?pdp_filters=item_id%3AMLB6558005132&matt_event_ts=1790351278785&matt_d2id=5c77c0bd-5529-4704-a435-e511d1bf64e0&matt_tracing_id=54016e5a-e023-4d07-b859-f606082b685f#polycard_client=recommendations_home_affiliate-profile&wid=MLB6558005132&sid=recos&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=52780588&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=ffadb8a7-33cc-45a3-a214-90478d4c091a&tracking_id=f18224f8-b991-4da6-86b9-1e22dc7ded7b&c_id=/home/card-featured/element&c_uid=d5f87d55-a390-4628-a42a-0a284155c8b3",
+    
+      featured: true
+    },
   
   ];
